@@ -1,0 +1,33 @@
+<html>
+<head><title>REGISTRATION</title></head>
+<body background="blue.jpg">
+<font color="black"><h2 align="center"> Registration form</h2>
+<table align="center" border="2" cellpadding="10"><tr><td>
+<font color="black"><form>
+Enter your name : <input type="text" name="frame" size="20">
+<br><br>
+Enter your email id : <input type="id" name="id" size="20"><br><br>
+Phone number : <input type="text" name="fno" size="10"><br><br>
+Gender :<input type="radio" name="gender" value="male" checked>male
+<input type="radio" name="gender" value="female">female<br><br>
+<input type="submit" value="submit">
+<input type="reset" value="reset"></font></form>
+<p><a href="about.html">back</a></p>
+</a>
+</p>
+</td>
+</tr>
+</table>
+<h3 align="left">VENUE :</h3>
+<h4 align="left"><br>Shyamnarayan Thakur Marg, Thakur Village, Kandivali East, Mumbai, Maharashtra 400101<br></h4>
+<h2 align="left">INTRODUCTION </h2>
+<a href="about.html"><img src="sandeep.jpg"  align="right" height="150" width="150" alt="homepage"></a>
+<h4 align="left"><br>Sandeep Maheshwari as a name has become synonymous with the unyielding spirit of a true leader. <br>
+<br>His journey represents the story of every single person who has struggled, failed and yet, surged ahead in search of success, happiness and contentment.<br>
+<br>With over 13 million subscribers on YouTube, Sandeep‘s story clearly continues to resonate with his audience.<br>
+<br>Early on in his career, He realised that the models in India are exploited.<br>
+<br>In order to bring about a reform and help the newcomers find their footing, he founded ImagesBaazar which has the world’s biggest collection of Indian images. <br>
+<br>His encouraging words, charm, and engaging videos have made him one of India’s most sought after motivational speakers.<br></h4>
+</body>
+</html>
+
